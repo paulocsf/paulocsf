@@ -16,7 +16,7 @@ Olá, Eu sou o Paulo César 👋
   ##
   
    
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/paulocsf/paulocsf/blob/output/github-contribution-grid-snake.svg)
  
   
 - 🔭 Atualmente desenvolvedor Front-end
