@@ -19,6 +19,6 @@ Olá, Eu sou o Paulo César 👋
   ![Snake animation](https://github.com/paulocsf/paulocsf/blob/output/github-contribution-grid-snake.svg)
  
   
-- 🔭 Atualmente desenvolvedor Front-end
-- 🌱 Estudando typescript,react,angular e vue
+- desenvolvedor Front-end | Javascript
+
 
