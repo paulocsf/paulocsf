@@ -1,4 +1,4 @@
-Olá, Eu sou o Paulo César 👋
+
 
 <div align="center">
   <a href="https://github.com/paulocsf">
